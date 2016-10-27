@@ -1,6 +1,6 @@
 ## Building
 To use build this image:
-`docker build --tag srdb .`
+`docker build .`
 
 ## Using the image
 When this container initializes it will look for a wordpress install located at /var/www/wp_html/
